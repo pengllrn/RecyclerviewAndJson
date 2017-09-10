@@ -15,7 +15,9 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * PARSOK 转换成功后的返回码
+ */
 public class GetAndParseJson {
     public static final int PARSEOK = 0x2017;
     private Handler handler;
